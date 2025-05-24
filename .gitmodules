@@ -1,18 +1,24 @@
 [submodule "suinova-builder"]
 	path = suinova-builder
 	url = git@github.com:VAR-META-Tech/suinova-builder.git
+	branch = main
 [submodule "suinova-component-store"]
 	path = suinova-component-store
 	url = git@github.com:VAR-META-Tech/suinova-component-store.git
+	branch = main
 [submodule "suinova-indexer"]
-	path = suinova-indexer
+	path = 	suinova-indexer
 	url = git@github.com:VAR-META-Tech/suinova-indexer
+	branch = main
 [submodule "suinova-smartcontract"]
 	path = suinova-smartcontract
 	url = git@github.com:VAR-META-Tech/suinova-smartcontract.git
+	branch = main
 [submodule "suinova-walrus-sites-provenance"]
 	path = suinova-walrus-sites-provenance
 	url = git@github.com:hungd19/walrus-sites-provenance.git
+	branch = main
 [submodule "suinova-nft-service"]
 	path = suinova-nft-service
 	url = git@github.com:VAR-META-Tech/suinova-indexer
+	branch = main
