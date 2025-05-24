@@ -6,10 +6,13 @@
 	url = git@github.com:VAR-META-Tech/suinova-component-store.git
 [submodule "suinova-indexer"]
 	path = suinova-indexer
-	url = git@github.com:VAR-META-Tech/suinova-suinova-indexer
+	url = git@github.com:VAR-META-Tech/suinova-indexer
 [submodule "suinova-smartcontract"]
 	path = suinova-smartcontract
 	url = git@github.com:VAR-META-Tech/suinova-smartcontract.git
 [submodule "suinova-walrus-sites-provenance"]
 	path = suinova-walrus-sites-provenance
 	url = git@github.com:hungd19/walrus-sites-provenance.git
+[submodule "suinova-nft-service"]
+	path = suinova-nft-service
+	url = git@github.com:VAR-META-Tech/suinova-indexer
